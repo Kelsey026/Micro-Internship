@@ -1,7 +1,7 @@
-# Creating an Interactive Dashboard: Visualizing Education Inequality Trends Across U.S.
+# Creating an Interactive Dashboard: Visualizing Education Inequality Trends Across The U.S.
 
 <h2>Micro-intership Summary:</h2>
-In this micro-internship I worked with publicly available data from opportunity insights, Google Sheets, and Tableau public, to create a set of charts, graphs, and a simple interactive dashboard that can be used for teaching Economics of Inequality and public communication about inequality trends.
+In this micro-internship, I worked with publicly available data from Opportunity Insights and the U.S. Census Bureau to create a cleaned CSV dataset in Google Sheets, to be used in Tableau public to create simple interactive dashboard that can be used for teaching Economics of Inequality and public communication about inequality trends.
 
 <h3>Project Impact:</h3>
 -
